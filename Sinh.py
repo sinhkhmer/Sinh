@@ -395,10 +395,11 @@ logo = ("""\033[1;32m
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  \033[1;32mAuther  : ALIYAN TRICKER
-  \033[1;33mYouTube : ALIYAN TRICKER
-  \033[1;32mFecbook : ALIYAN TRICKER
-   \033[1;33m Admin. : ALIYAN TRICKER
+  \033[1;32mAuther   : Yan Sinh
+  \033[1;33mYouTube  : Sinh Sial
+  \033[1;32mFecbook  : Sinh Verifled
+   \033[1;33m Admin. : Sinh
+  \033[1;37m STATUS  : PAID
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
@@ -412,20 +413,20 @@ class Main:
 		print("")
 		print("\033[1;36m     UNSUSCRIBE KARNE WALON KA APROVEL URA DEYA JAIGA")
 		print("")
-		print("\033[1;32m [1] First You Subscribe Channel")
+		print("\033[1;32m [1] Subscribe My Channel YouTube To use Tool")
 		print("\033[1;33m [2] Exit")
 		print("")
-		ALIYAN = input("\n\033[1;36m  Chose ==> \033[1;32m")
-		if ALIYAN in ["", " "]:
+		Sinh = input("\n\033[1;36m  Chose ==> \033[1;32m")
+		if Sinh in ["", " "]:
 			exit()
-		elif ALIYAN in ["2", "02"]:
-			print("    Thanks🥰♥️")
+		elif Sinh in ["2", "02"]:
+			print("    Thanks For Use 🥰♥️")
 			exit()
-		elif ALIYAN in ["1", "01"]:
-			os.system("xdg-open https://youtu.be/gxjhqkJL_h0")
+		elif Sinh in ["1", "01"]:
+			os.system("xdg-open https://www.youtube.com/channel/UCHwSPzZfsPSMj38J613JxCg")
 			print("")
 			time.sleep(2.0)
-			print("\033[1;33m    Apna nam type kro")
+			print("\033[1;33m    Type Your Name")
 			print("")
 			input("\n\033[1;32m  Type Name ==> \033[1;36m")
 			time.sleep(2.1)
