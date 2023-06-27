@@ -389,17 +389,17 @@ logo = ("""\033[1;32m
 
 
 
-\033[1;32mNAM TO SUNA HOGA ALIYAN
-\033[;33mCLEAR FECBOOK DATA TO OEPN CP ID JUST NOW
-\033[;32mMAZA NA AYE PASSY WAPIS 😁🖕
+\033[1;32m must have heard the name
+\033[;33m CLEAR FECBOOK DATA TO OEPN CP ID JUST NOW
+\033[;32m sabbay​ cheamuoy​ nung​ kar​ chhlang​ kat ​😁🖕
         
  
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;33m
-  \033[1;32mAuther   : Yan Sinh
-  \033[1;33mYouTube  : Sinh Sial
-  \033[1;32mFecbook  : Sinh Verifled
-   \033[1;33m Admin. : Sinh
-  \033[1;37m STATUS  : PAID
+  \033[1;32m  Auther   : Yan Sinh
+  \033[1;33m  YouTube  : Sinh Sial
+  \033[1;32m  Fecbook  : Sinh Verifled
+   \033[1;33m Admin.   : Sinh
+  \033[1;37m  STATUS   : PAID
 ••••••••••••••••••••••••••••••••••••••••••••••••••\033[1;32m""")
 
 class Main:
@@ -411,7 +411,7 @@ class Main:
 		os.system("clear")
 		print(logo)
 		print("")
-		print("\033[1;36m     UNSUSCRIBE KARNE WALON KA APROVEL URA DEYA JAIGA")
+		print("\033[1;36m    Because of unsubscribe, Balong Ka is the best place to fly")
 		print("")
 		print("\033[1;32m [1] Subscribe My Channel YouTube To use Tool")
 		print("\033[1;33m [2] Exit")
@@ -448,7 +448,7 @@ class Main:
 		if Ali in ["2", "02"]:
 			Public()
 		if Ali in ["3", "03"]:
-			os.system("python Dump.py")
+			os.system("python Sinh2.py")
 		if Ali in ["4", "04"]:
 			self.old()
 		if Ali in ["5", "05"]:
@@ -464,7 +464,7 @@ class Main:
 		xx = 999999999
 		idx = "100000" 
 		os.system('clear');print(logo)
-		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
+		limit = int(input(" \n\033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50000: "))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -891,7 +891,7 @@ class Main:
 		xx = 9999999999
 		idx = "10000" 
 		os.system('clear');print(logo)
-		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50,000: "))
+		limit = int(input("\n \033[0;95m[+]\033[0;93m TOTAL IDS TO CRACK LIMIT 50000: "))
 		try:
 			for n in range(limit):
 				_ = random.randint(x,xx)
@@ -1331,8 +1331,8 @@ def Subscraption():
 		os.system("clear")
 		print(logo)
 		print ("")
-		print(" \033[1;32m ALIYAN Toll Free BUT You Need Get Approved First\033[1;37m\n")
-		print(" \033[1;32m Note : ALIYAN FREE HA BHAIYO ENJOYA   \033[1;37m")
+		print(" \033[1;32m Sinh! Toll Free BUT You Need Get Approved First\033[1;37m\n")
+		print(" \033[1;32m Note : The tool is paid you need to use   \033[1;37m")
 		print ("")
 		print(" Your Key is Not Approved ")
 		print("")
@@ -1342,9 +1342,9 @@ def Subscraption():
 		print ("")
 		name = input(" Your Name : ")
 		print ("")
-		gf = input(" Your gf Name : ")
+		gf = input(" Your Phone Number : ")
 		print ("")
-		lol = input(" Your Your Email : ")
+		lol = input(" Your Crush Name : ")
 		print ("")
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
